@@ -5,7 +5,7 @@ export default function Home() {
 
   return (
     <div>
-      <Link href="/scrolltrigger">Scroll Trigger Component</Link>
+      <p className='text-9xl font-extrabold text-center content-center items-center pt-[15%]' >Next JS 14</p>
     </div>
   )
 }
