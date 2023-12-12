@@ -8,9 +8,12 @@ const Navbar = () => {
   </div>
   <div className="flex-none">
     <ul className="menu menu-horizontal px-1">
+      <li><a href='/dashboard' >Dashboard</a></li>
       <li><a href='/scrolltrigger' >Scroll Trigger</a></li>
       <li><a href='/animations' >Animations</a></li>
       <li><a href='/daisy' >Daisy</a></li>
+      <li><a href='/card' >MasterCard</a></li>
+      <li><a href='/spiderman' >Spider Man</a></li>
       {/* <li>
         <details>
           <summary>
